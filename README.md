@@ -1,6 +1,6 @@
 # Playgroung
 
-Not more than prepared project with the minimum required React ecosystem.
+Empty project with the minimum required React ecosystem.
 
 ## Install
 
